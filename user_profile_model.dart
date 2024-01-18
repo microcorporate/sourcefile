@@ -86,3 +86,5 @@ class UserProfileModel {
 //
 // Map<String, dynamic> toJson() => _$UserProfileModelToJson(this);
 }
+
+
